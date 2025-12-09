@@ -29,9 +29,11 @@
 
 
 ### 📈 LeetCode Dashboard:
-<p align="center">
+<!-- <p align="center">
   <img src="https://leetcard.jacoblin.cool/Bhavani-Pottipothula?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats">
-</p>
+</p> -->
+<img src="https://leetcard.jacoblin.cool/YOUR_ID?ext=activity&site=leetcode&theme=dark&font=Baloo&hide_username=true" />
+
 
 
 ### 📬 Contact Me:
