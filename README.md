@@ -27,14 +27,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 </p>
 
-
 ### 📈 LeetCode Dashboard:
-<!-- <p align="center">
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/Bhavani-Pottipothula?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats">
-</p> -->
-<img src="https://leetcard.jacoblin.cool/YOUR_ID?ext=activity&site=leetcode&theme=dark&font=Baloo&hide_username=true" />
-
-
+</p>
 
 ### 📬 Contact Me:
 <p align="left">
