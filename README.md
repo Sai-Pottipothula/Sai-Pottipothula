@@ -36,7 +36,5 @@
 
 ### 📬 Contact Me:
 <p align="left">
-  <strong>📞 </strong>  +1 201-275-9949 <br>
-  <strong>📧 </strong>  saipottipothula@gmail.com <br>
-  <strong>🔗 </strong>  <a href="https://www.linkedin.com/in/sai-pottipothula/">linkedin</a>
+  <strong>📞 </strong>  +1 201-275-9949 | <strong>📧 </strong>  saipottipothula@gmail.com | <strong>🔗 </strong>  <a href="https://www.linkedin.com/in/sai-pottipothula/">linkedin</a>
 </p>
