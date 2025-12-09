@@ -28,8 +28,15 @@
 </p>
 
 
-
 ### 📈 LeetCode Dashboard:
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Bhavani-Pottipothula?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats">
+</p>
+
+
+### 📬 Contact Me:
+<p align="left">
+  <strong>📞 Phone:</strong> +1 201-275-9949 <br>
+  <strong>📧 Email:</strong> saipottipothula@gmail.com <br>
+  <strong>🔗 LinkedIn:</strong> <a href="https://www.linkedin.com/in/">linkedin.com/in/</a>
 </p>
