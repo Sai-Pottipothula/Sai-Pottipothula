@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhavani Sai Pottipothula</h1>
+<h1 align="center">Hi 👋, I'm Sai Pottipothula</h1>
 <h3 align="center">A passionate Software Developer from Arizona State University</h3>
 
 ### 🧰 Technologies I Work With:
