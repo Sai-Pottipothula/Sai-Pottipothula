@@ -29,5 +29,5 @@
 ### 📈 LeetCode Dashboard:
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Bhavani_Sai_P?theme=dark&font=Baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Sai_Pottipothula?theme=dark&font=Baloo&ext=contest" />
 </p>
